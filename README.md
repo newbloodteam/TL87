@@ -1,2 +1,2 @@
-# TL87
-Press here: https://github.com/orgs/newbloodteam/teams/tl87
+# TL87 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl87
